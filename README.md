@@ -11,7 +11,7 @@ SwiftUIHelperKit — это библиотека-помощник для Swift
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/username/SwiftUIHelperKit.git", from: "1.0.0")
+    .package(url: "https://github.com/KolotilinMA/SwiftUIHelperKit.git", from: "1.0.0")
 ]
 
 Использование
